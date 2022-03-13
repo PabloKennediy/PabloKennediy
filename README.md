@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PabloKennediy
-- 👀 I’m interested in  desenvolvimento de Softwera 
+- 👀 I’m interested in  desenvolvimento de Software
 - 🌱 I’m currently learning  HTML, Java e JavaScript e framekorks com ênfase na linguagem C#
 - 💞️ I’m looking to collaborate on ajudando pessoas
 - 📫 How to reach me? 
